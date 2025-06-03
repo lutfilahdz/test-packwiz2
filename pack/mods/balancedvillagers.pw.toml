@@ -1,0 +1,13 @@
+name = "Balanced Villagers"
+filename = "BalancedVillagers-1.0-SNAPSHOT.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/iB0f7hHI/versions/k5x8XWZf/BalancedVillagers-1.0-SNAPSHOT.jar"
+hash-format = "sha512"
+hash = "8146d504e0cd25bdc2b4113fa1059773ad1f07f552c8d323097527ec0006697982f549491f6daa25b72b579b4fd411ed9b350af097f21f44da2c70f190eb6a6b"
+
+[update]
+[update.modrinth]
+mod-id = "iB0f7hHI"
+version = "k5x8XWZf"
