@@ -6,6 +6,11 @@ hash = "8ddcf929188c0a333df10b14b1900db8c2d3e85854ec551b600ca0b220957ef4"
 metafile = true
 
 [[files]]
+file = "mods/better-village.pw.toml"
+hash = "331a81a2b1907120a5130e769c93b4495554a9b28208adf6dec60a0dd80068f8"
+metafile = true
+
+[[files]]
 file = "mods/bountiful.pw.toml"
 hash = "88d4b6472c19d1a2afe1b287c052d17559ac96603b8bbbcf82ad7a9068d953e6"
 metafile = true
@@ -13,6 +18,16 @@ metafile = true
 [[files]]
 file = "mods/creativecore.pw.toml"
 hash = "78085457d022d795c7f4f5566476fde9a8a4e81eee96db09ef7f5bd09eb34926"
+metafile = true
+
+[[files]]
+file = "mods/ct-overhaul-village.pw.toml"
+hash = "630b6d667264f8f5a580af52952ca9ef031d4f6db81a41e22d78738dcc53b154"
+metafile = true
+
+[[files]]
+file = "mods/ctov-friends-and-foes-compat.pw.toml"
+hash = "afcd4470f08c342d9c09af255d113736906d2d2c739f5277951eb7ebde9446b9"
 metafile = true
 
 [[files]]
@@ -66,6 +81,11 @@ hash = "4449401b59481016fa2a66d6e749795129160cb1ab3e7932e15033c6b5815455"
 metafile = true
 
 [[files]]
+file = "mods/friends-and-foes.pw.toml"
+hash = "2fcd17a965738c1649d434a0d5f8077321b4bb90a8c9d9d868d220d8bbd5abb3"
+metafile = true
+
+[[files]]
 file = "mods/geckolib.pw.toml"
 hash = "e94fe94b0c26dd5b57604f06585b3d69d803733dac6a8e0a509917a8e63e5c8c"
 metafile = true
@@ -93,6 +113,11 @@ metafile = true
 [[files]]
 file = "mods/kambrik.pw.toml"
 hash = "a06e2f058ccc09999d2437517969b248bc7008ea9e990996b11d7458253784f7"
+metafile = true
+
+[[files]]
+file = "mods/library-ferret.pw.toml"
+hash = "be4bb351c89fb18c5166578ef42006e32138bdb1e356ba7db0723ad49c4272c4"
 metafile = true
 
 [[files]]
@@ -136,6 +161,11 @@ hash = "e7aaef7215f2419177f1b1d3240d2d61d17ca2b2e03127d92941874ad5594d6f"
 metafile = true
 
 [[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "dc7cdb875b860056c1dcc88988e0ed17d0058d9127f897ffe058457f3daa888a"
+metafile = true
+
+[[files]]
 file = "mods/tool-trims-mod.pw.toml"
 hash = "b19fd9ac623c231329f11d68b6c80d1c0bfcd129d426a611e5123c5e7959d195"
 metafile = true
@@ -143,6 +173,11 @@ metafile = true
 [[files]]
 file = "mods/universal-graves.pw.toml"
 hash = "3850ba97b0333e8a93577e2d6352659e63bdefa295c704b18431ae233b6040e8"
+metafile = true
+
+[[files]]
+file = "mods/voice-chat-interaction.pw.toml"
+hash = "021d42f729c7fba0ddca97369323325002ecb8437e2948d82478e682bb340e58"
 metafile = true
 
 [[files]]
@@ -163,3 +198,13 @@ metafile = true
 [[files]]
 file = "unsup.ini"
 hash = "2b1343e6b74422519a5399420a0b310aa7d7c5e551bebc1c630f4f6351f0b6c5"
+
+[[files]]
+file = "world/datapacks/better-villages-bountiful.pw.toml"
+hash = "5c56dbd352a75a406adce0316f8c09eb82128ed285ea3c89fa05b9ba56ab0ef2"
+metafile = true
+
+[[files]]
+file = "world/datapacks/repurposed-structures-friends-and-foes-datapack.pw.toml"
+hash = "a24d42c608cc553383cab22dd1952307f12e14d6cdc177c956b5964add9875c8"
+metafile = true
