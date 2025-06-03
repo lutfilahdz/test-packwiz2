@@ -11,6 +11,11 @@ hash = "78085457d022d795c7f4f5566476fde9a8a4e81eee96db09ef7f5bd09eb34926"
 metafile = true
 
 [[files]]
+file = "mods/diet.pw.toml"
+hash = "630011e25bd2f05958b2ad715602ac3f6cca0504ee6c793e71828de54e480cbf"
+metafile = true
+
+[[files]]
 file = "mods/dramatic-doors.pw.toml"
 hash = "8143c63aa2e53fd78ea83eddba9cfaa4c036141aae6604eb01d8f82dc5d03c99"
 metafile = true
@@ -23,6 +28,11 @@ metafile = true
 [[files]]
 file = "mods/fabric-seasons.pw.toml"
 hash = "ce276e188fa22c4b8e4a99a0558844284fff7d49af2c5e6683290eaa598a7c61"
+metafile = true
+
+[[files]]
+file = "mods/fishing-real.pw.toml"
+hash = "df919122cd5a7485059cd9ccdaddd82467a076a718978c128f1642a5c5f83d6c"
 metafile = true
 
 [[files]]
@@ -46,8 +56,28 @@ hash = "59e693fdad9c69fab13a5770e20e0bcbdf9831053361c04c786932c75a67f312"
 metafile = true
 
 [[files]]
+file = "mods/infinitybuttons.pw.toml"
+hash = "f06d859796e84c8ecbdbbabd07c988d8c9b94f4c4ee3ab7dcce9400e4d073a62"
+metafile = true
+
+[[files]]
 file = "mods/itemphysic.pw.toml"
 hash = "e93445d4d21b7ad40204394fc4be435f1b596f8d922141e973f83528a38e0210"
+metafile = true
+
+[[files]]
+file = "mods/mmmmmmmmmmmm.pw.toml"
+hash = "baf621c25806948e7407dcf49982e2b86c9a047270d57c1e3ece1e07ef28f07b"
+metafile = true
+
+[[files]]
+file = "mods/moonlight.pw.toml"
+hash = "a43ab30d8cff19323e003c0dfc15edb07eadb9b0acc2f44297caf9dd4226e20c"
+metafile = true
+
+[[files]]
+file = "mods/more-mob-variants.pw.toml"
+hash = "1ab3b265bab4a5e521a49224d876727232e66d69afe632ff2bb5a2be462ca2ba"
 metafile = true
 
 [[files]]
@@ -56,8 +86,28 @@ hash = "2149e8ba3fc2c56905e6bbc06efd4ece5999d8babea605386ec5bd1af26aef90"
 metafile = true
 
 [[files]]
+file = "mods/nyfs-spiders.pw.toml"
+hash = "0e4b66acb56a69961e0324eb902df9f490b8681b3d3f99ac3f96bb1b55ad1ba9"
+metafile = true
+
+[[files]]
+file = "mods/owo-lib.pw.toml"
+hash = "df4c4fe3aff1792aa7d19d097d5d1bc0c6e958e6e4ee32dbf148ecac62e1274d"
+metafile = true
+
+[[files]]
+file = "mods/ping-wheel.pw.toml"
+hash = "79e6bd147411a5d7823ee1c7c6e60c65e601aa0f91c7beb8a3f5e3e61f6ed4ed"
+metafile = true
+
+[[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "e7aaef7215f2419177f1b1d3240d2d61d17ca2b2e03127d92941874ad5594d6f"
+metafile = true
+
+[[files]]
+file = "mods/tool-trims-mod.pw.toml"
+hash = "b19fd9ac623c231329f11d68b6c80d1c0bfcd129d426a611e5123c5e7959d195"
 metafile = true
 
 [[files]]
