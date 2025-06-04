@@ -61,6 +61,11 @@ hash = "f53127f5487705ab6eea8cd69a663f6d1cabc3d21aacfb0026d177c9842da4e0"
 metafile = true
 
 [[files]]
+file = "mods/diet.pw.toml"
+hash = "630011e25bd2f05958b2ad715602ac3f6cca0504ee6c793e71828de54e480cbf"
+metafile = true
+
+[[files]]
 file = "mods/dramatic-doors.pw.toml"
 hash = "8143c63aa2e53fd78ea83eddba9cfaa4c036141aae6604eb01d8f82dc5d03c99"
 metafile = true
@@ -193,11 +198,6 @@ metafile = true
 [[files]]
 file = "mods/naturalist.pw.toml"
 hash = "2149e8ba3fc2c56905e6bbc06efd4ece5999d8babea605386ec5bd1af26aef90"
-metafile = true
-
-[[files]]
-file = "mods/nutritionz.pw.toml"
-hash = "02e4cc0e99557965fc3c99a501030727ad04082f8227c54dc5af6dd18567160b"
 metafile = true
 
 [[files]]
