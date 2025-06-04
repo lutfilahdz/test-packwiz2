@@ -378,3 +378,8 @@ metafile = true
 [[files]]
 file = "unsup.ini"
 hash = "4c254d9dcc7404739df71d32f81050230b4042878834b826d763ed3e0df420e2"
+
+[[files]]
+file = "world/datapacks/better-villages-bountiful.pw.toml"
+hash = "5c56dbd352a75a406adce0316f8c09eb82128ed285ea3c89fa05b9ba56ab0ef2"
+metafile = true
