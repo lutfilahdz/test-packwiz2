@@ -26,6 +26,11 @@ hash = "88d4b6472c19d1a2afe1b287c052d17559ac96603b8bbbcf82ad7a9068d953e6"
 metafile = true
 
 [[files]]
+file = "mods/chefs-delight.pw.toml"
+hash = "5fed9e1a740d84cc711a97b4039b76da4a4a0f8fa39864d4e895de62326301d2"
+metafile = true
+
+[[files]]
 file = "mods/cherry-villages.pw.toml"
 hash = "afdbb56b276f5430050096bdf2e51ca731cb61cd814b3443e074cc8d5caba01b"
 metafile = true
