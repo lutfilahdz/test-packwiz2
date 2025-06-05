@@ -1003,8 +1003,18 @@ file = "server-files/config/xaeroworldmap-common.txt"
 hash = "0829f0ecbae2f7ec816841eb0c8b2a6196643b55a41bf177b3fb305ce7c9433b"
 
 [[files]]
-file = "unsup.ini"
-hash = "4c254d9dcc7404739df71d32f81050230b4042878834b826d763ed3e0df420e2"
+file = "server-files/unsup.ini"
+hash = "8f423a5ece98bb95c1715be043a0408ab1b876cd26da3f9e36d986d401eadab4"
+
+[[files]]
+file = "unsup-client.pw.toml"
+hash = "83f513925a267db1459aefafd9164e9a75b917e089d05d9de2952a677474bcc2"
+metafile = true
+
+[[files]]
+file = "unsup-server.pw.toml"
+hash = "23bbcd6a68134aa36b0c5d3b23cdaa2f769d0cdf6298102b271dc6fde64ef692"
+metafile = true
 
 [[files]]
 file = "world/datapacks/better-villages-bountiful.pw.toml"
