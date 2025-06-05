@@ -6,6 +6,11 @@ hash = "d53e7829fc47bd2f1e1a8df7171207a6835136c37cb8d8114efceffc5bb057c1"
 metafile = true
 
 [[files]]
+file = "config/universal-graves/models/default.pw.toml"
+hash = "8550380e05ca4d38d3ac94cd5e8aa39f6dcabbf54636a3e736c41282b774f3b7"
+metafile = true
+
+[[files]]
 file = "config/xaerominimap-common.pw.toml"
 hash = "951e4cabf010ead820f0fd031c17a95c8ee293a3890ff9e1299da47926eb5ccb"
 metafile = true
@@ -984,6 +989,10 @@ metafile = true
 file = "options.pw.toml"
 hash = "2228a109090b6d0a2062918ce45eacb19a17841c139faf7bbf4c77837b064795"
 metafile = true
+
+[[files]]
+file = "server-files/config/universal-graves/models/default.json"
+hash = "1dd6bff90363e4fb23ba7ad1f198dcec00cf028963f9ce23a0d3848970d54c62"
 
 [[files]]
 file = "server-files/config/xaerominimap-common.txt"
