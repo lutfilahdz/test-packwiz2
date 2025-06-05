@@ -1,6 +1,16 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/genshinstrument-client.pw.toml"
+hash = "ebb06e0bccf28ab8c8a4babe766c9b2969ec8d3e2fa5a9e4731b4ec6d4328063"
+metafile = true
+
+[[files]]
+file = "config/yes_steve_model-common.pw.toml"
+hash = "986d4f3eb0f3d38352989c949b93e7fd12ecc94d464629a0a83aa20750157f0a"
+metafile = true
+
+[[files]]
 file = "mods/additional-structures.pw.toml"
 hash = "a2514b93ee462130af7905208c993847eda9eb7ddb4a244a34e912b445ae9b54"
 metafile = true
@@ -958,6 +968,11 @@ metafile = true
 [[files]]
 file = "mods/yungs-extras.pw.toml"
 hash = "d201155cab7c2a2cf940d91f240be769ac12046c2fc6a0774e225a8e51423ed0"
+metafile = true
+
+[[files]]
+file = "options.pw.toml"
+hash = "2d400fd887acc68c8925d5042488f942ccce5e0a543d02d893344476de3c30ff"
 metafile = true
 
 [[files]]

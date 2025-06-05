@@ -1,0 +1,8 @@
+name = "options.txt"
+filename = "options.txt"
+side = "client"
+
+[download]
+url = "https://lutfilahdz.github.io/test-packwiz2/main/client-files/options.txt"
+hash-format = "sha512"
+hash = "b7312368d0d566908d9b89db0d6d0b6db5266421e30495e215f327c1b90df6eb"

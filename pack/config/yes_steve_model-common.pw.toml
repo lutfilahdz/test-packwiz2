@@ -1,0 +1,8 @@
+name = "yes_steve_model-common.toml"
+filename = "yes_steve_model-common.toml"
+side = "client"
+
+[download]
+url = "https://lutfilahdz.github.io/test-packwiz2/main/client-files/config/yes_steve_model-common.toml"
+hash-format = "sha512"
+hash = "3b15017f623ec2b6f7a5e2ba9cfaaea9b3f58b51468d6520fc184b9921e2115f"

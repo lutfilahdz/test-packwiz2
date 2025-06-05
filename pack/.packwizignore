@@ -6,3 +6,6 @@
 
 # Exclude unsup files
 unsup.toml
+
+# Exclude client-files folder and its contents
+client-files/

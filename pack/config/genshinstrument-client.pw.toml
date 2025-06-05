@@ -1,0 +1,8 @@
+name = "genshinstrument-client.toml"
+filename = "genshinstrument-client.toml"
+side = "client"
+
+[download]
+url = "https://lutfilahdz.github.io/test-packwiz2/main/client-files/config/genshinstrument-client.toml"
+hash-format = "sha512"
+hash = "4e8ac4ecff9c4b40ab0635232cf0173e320f981bfda6813826cb9c883556bf27"
