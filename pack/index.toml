@@ -6,6 +6,16 @@ hash = "a2514b93ee462130af7905208c993847eda9eb7ddb4a244a34e912b445ae9b54"
 metafile = true
 
 [[files]]
+file = "mods/anti-entity-grief.pw.toml"
+hash = "ee86cfb8d9260ab49614a284a57d517bc5d7de3d09746037522adfbd55cb1a04"
+metafile = true
+
+[[files]]
+file = "mods/anti-xray.pw.toml"
+hash = "022933f7c0f9b55861bdf8b60e70a3978947b659b4624b4cd301a4190dd15a47"
+metafile = true
+
+[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "e12dce3e543168379a2856c66064ee2001e6420a9dfc6163f37b78e518947456"
 metafile = true
@@ -356,6 +366,11 @@ hash = "5f2ea40fc2cf14692f1200284104a123e8789adbd868cd29b2ef8ff40b1527f3"
 metafile = true
 
 [[files]]
+file = "mods/ledger.pw.toml"
+hash = "56094cd33726792df84e8991bf1e9e3d69383a65793d47aab66bf2cac3f9acfb"
+metafile = true
+
+[[files]]
 file = "mods/lets-do-addon-compat.pw.toml"
 hash = "187f524b1d902ceafcb2d8b6675ad9f4cd849dfbbca037777170d5c52e46af47"
 metafile = true
@@ -471,6 +486,11 @@ hash = "80b0b7333c6c4235d840800afc8583a1e03f5fe493dd8085bf46dbf18e48eab3"
 metafile = true
 
 [[files]]
+file = "mods/no-portals.pw.toml"
+hash = "f19eb10d9ef2510cc8e9bf7199efc503717cb6609f31a29a43698f461ae4ff20"
+metafile = true
+
+[[files]]
 file = "mods/noisium.pw.toml"
 hash = "f4b9d7acc345b8df6dd13e19b36658cbca476abdee703ee6f38c66d33e8fa763"
 metafile = true
@@ -531,6 +551,11 @@ hash = "dc7cdb875b860056c1dcc88988e0ed17d0058d9127f897ffe058457f3daa888a"
 metafile = true
 
 [[files]]
+file = "mods/skinrestorer.pw.toml"
+hash = "e0d96695e80d9cb55513b0b300d3bff0e2487ec7f4efa702d213c05882aa7128"
+metafile = true
+
+[[files]]
 file = "mods/slice-and-dice.pw.toml"
 hash = "47493d398295964924d386d0fb866dac1a2d5e0cd4692b8436ea2552ce6c99f6"
 metafile = true
@@ -573,6 +598,11 @@ metafile = true
 [[files]]
 file = "mods/tidal-towns.pw.toml"
 hash = "9afc7aa9f96e76f806891d8ee5d6be77d06a370328323462f689541d0e9c8b02"
+metafile = true
+
+[[files]]
+file = "mods/timeoutout.pw.toml"
+hash = "e7d7d775847e0dba0303056d4ad11ffda536b7851b443e5d5799afb23ecefa5f"
 metafile = true
 
 [[files]]
@@ -638,6 +668,11 @@ metafile = true
 [[files]]
 file = "mods/what-are-they-up-to.pw.toml"
 hash = "c709708a11f117743c086f16de67701eb35bfad331826960398bb1e64ea4d35f"
+metafile = true
+
+[[files]]
+file = "mods/wits.pw.toml"
+hash = "a2040008497c6e04280f6e6413098a9d46b41ee51df4486c4915578b9b9d1f60"
 metafile = true
 
 [[files]]
