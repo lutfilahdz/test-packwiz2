@@ -2,12 +2,12 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/genshinstrument-client.pw.toml"
-hash = "ebb06e0bccf28ab8c8a4babe766c9b2969ec8d3e2fa5a9e4731b4ec6d4328063"
+hash = "d53e7829fc47bd2f1e1a8df7171207a6835136c37cb8d8114efceffc5bb057c1"
 metafile = true
 
 [[files]]
 file = "config/yes_steve_model-common.pw.toml"
-hash = "986d4f3eb0f3d38352989c949b93e7fd12ecc94d464629a0a83aa20750157f0a"
+hash = "a1abfc78ca3e589700690e01bbfb541eaba73727d22ed47e26182babf2112713"
 metafile = true
 
 [[files]]
@@ -972,7 +972,7 @@ metafile = true
 
 [[files]]
 file = "options.pw.toml"
-hash = "2d400fd887acc68c8925d5042488f942ccce5e0a543d02d893344476de3c30ff"
+hash = "d3f5e386e71dab0567eb5d4d34aaa423fb084df127c52b119830c8d196869ff7"
 metafile = true
 
 [[files]]

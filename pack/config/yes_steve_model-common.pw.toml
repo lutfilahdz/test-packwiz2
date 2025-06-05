@@ -5,4 +5,4 @@ side = "client"
 [download]
 url = "https://lutfilahdz.github.io/test-packwiz2/main/client-files/config/yes_steve_model-common.toml"
 hash-format = "sha512"
-hash = "3b15017f623ec2b6f7a5e2ba9cfaaea9b3f58b51468d6520fc184b9921e2115f"
+hash = "2abedb199dab8fb7eaf80b9274fff1778df9bcb72a85c2937f25600901ed1542cf9e3b235b6bd62ea5035aca0f75bc1404756500391ce4c8afe84fa2d7d53784"
