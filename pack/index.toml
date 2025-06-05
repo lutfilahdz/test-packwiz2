@@ -6,6 +6,16 @@ hash = "d53e7829fc47bd2f1e1a8df7171207a6835136c37cb8d8114efceffc5bb057c1"
 metafile = true
 
 [[files]]
+file = "config/xaerominimap-common.pw.toml"
+hash = "951e4cabf010ead820f0fd031c17a95c8ee293a3890ff9e1299da47926eb5ccb"
+metafile = true
+
+[[files]]
+file = "config/xaeroworldmap-common.pw.toml"
+hash = "ae6a02f2a92fd33a1273d95c2b27764ac5efd17d6667688b6b2f77e58a6a1ca9"
+metafile = true
+
+[[files]]
 file = "config/yes_steve_model-common.pw.toml"
 hash = "a1abfc78ca3e589700690e01bbfb541eaba73727d22ed47e26182babf2112713"
 metafile = true
@@ -974,6 +984,14 @@ metafile = true
 file = "options.pw.toml"
 hash = "2228a109090b6d0a2062918ce45eacb19a17841c139faf7bbf4c77837b064795"
 metafile = true
+
+[[files]]
+file = "server-files/config/xaerominimap-common.txt"
+hash = "1417bc75bdedbbd902913da0ed6a5864bd90a425e7a57a23e76af1765f428a11"
+
+[[files]]
+file = "server-files/config/xaeroworldmap-common.txt"
+hash = "0829f0ecbae2f7ec816841eb0c8b2a6196643b55a41bf177b3fb305ce7c9433b"
 
 [[files]]
 file = "unsup.ini"
