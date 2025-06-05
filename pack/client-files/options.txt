@@ -1,4 +1,4 @@
 darkMojangStudiosBackground:true
-tutorialStep:none
+gamma:1.0
 skipMultiplayerWarning:true
 joinedFirstServer:true
