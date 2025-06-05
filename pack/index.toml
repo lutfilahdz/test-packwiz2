@@ -515,6 +515,16 @@ hash = "5c56dbd352a75a406adce0316f8c09eb82128ed285ea3c89fa05b9ba56ab0ef2"
 metafile = true
 
 [[files]]
+file = "world/datapacks/repurposed-structures-chefs-delight-compat.pw.toml"
+hash = "988501e1caee238435dd33482ae0c484c3f54ff37cda3ba47f7e5a6280895d0e"
+metafile = true
+
+[[files]]
+file = "world/datapacks/repurposed-structures-farmers-delight-compat.pw.toml"
+hash = "2271ae5c97d5579243411cc3269acd76cf78e807ff6f9f00e20440bcae8042db"
+metafile = true
+
+[[files]]
 file = "world/datapacks/repurposed-structures-friends-and-foes-compat.pw.toml"
 hash = "927e635c981510b06c640f1f18047e9b19324cc1b4137ff4d610844be4b600b3"
 metafile = true
