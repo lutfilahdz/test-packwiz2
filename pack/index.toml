@@ -51,6 +51,11 @@ hash = "f460d01d0351226ce596672936cc09364028046e87fc357bd0218c6df3e89d83"
 metafile = true
 
 [[files]]
+file = "mods/coroutil.pw.toml"
+hash = "429284603e4c5ca44777cb4ce2455477fcc1eee4dc9a4ae2f759c4895bf332e7"
+metafile = true
+
+[[files]]
 file = "mods/create-deco-additions.pw.toml"
 hash = "f7cd6a1ac16a483a1adaad11a43c549281ff0bef56d031b1aa5df330f3b58d02"
 metafile = true
@@ -191,6 +196,11 @@ hash = "ca6466a711561f431038af2698dfaa4e683703f74908655a5742adbc0f5433ef"
 metafile = true
 
 [[files]]
+file = "mods/fabric-seasons-extras.pw.toml"
+hash = "e374551967a4fc99edb9fc60ba96845aa0252b4a12236e7591d921c1664f6001"
+metafile = true
+
+[[files]]
 file = "mods/fabric-seasons.pw.toml"
 hash = "ce276e188fa22c4b8e4a99a0558844284fff7d49af2c5e6683290eaa598a7c61"
 metafile = true
@@ -256,6 +266,11 @@ hash = "55f92a03df046f1ee4da2100025726e166576d47378932b685c56b9ff3da2a37"
 metafile = true
 
 [[files]]
+file = "mods/herdspanic.pw.toml"
+hash = "a4540dd8807f53182939edae5f114e801097433370a3b11a3c19a5e940d7b6c1"
+metafile = true
+
+[[files]]
 file = "mods/hopo-better-underwater-ruins.pw.toml"
 hash = "f57d03cf7f86ea07a85d94ac11c15c649a7ec8db67d772845609eca42c7af7d3"
 metafile = true
@@ -283,6 +298,11 @@ metafile = true
 [[files]]
 file = "mods/kambrik.pw.toml"
 hash = "a06e2f058ccc09999d2437517969b248bc7008ea9e990996b11d7458253784f7"
+metafile = true
+
+[[files]]
+file = "mods/kiwi.pw.toml"
+hash = "5f2ea40fc2cf14692f1200284104a123e8789adbd868cd29b2ef8ff40b1527f3"
 metafile = true
 
 [[files]]
@@ -401,6 +421,11 @@ hash = "df4c4fe3aff1792aa7d19d097d5d1bc0c6e958e6e4ee32dbf148ecac62e1274d"
 metafile = true
 
 [[files]]
+file = "mods/passable-foliage.pw.toml"
+hash = "d2f38114e14bd2d44c9a25bea37791ad899345cfe73828858c0ac61ffe28f2e3"
+metafile = true
+
+[[files]]
 file = "mods/philips-ruins.pw.toml"
 hash = "de4245db9a0b876aafb313094db4e2399fbea63e973c58dfe2fb0a0b27b458c3"
 metafile = true
@@ -491,6 +516,11 @@ hash = "6f95ca1888cfacfd7b44fbe93a76cedc1d5a8f582ab7aa1108354698c1c8776c"
 metafile = true
 
 [[files]]
+file = "mods/visual-workbench.pw.toml"
+hash = "c28f21e5e16aa98001e982453e1b2b8f99302497c645bca4a02a708cfc16577d"
+metafile = true
+
+[[files]]
 file = "mods/voice-chat-interaction.pw.toml"
 hash = "021d42f729c7fba0ddca97369323325002ecb8437e2948d82478e682bb340e58"
 metafile = true
@@ -503,6 +533,11 @@ metafile = true
 [[files]]
 file = "mods/watermedia.pw.toml"
 hash = "eef977bcac4bfd222529a55088771722227f25ff8174338809783a7871caa27d"
+metafile = true
+
+[[files]]
+file = "mods/what-are-they-up-to.pw.toml"
+hash = "c709708a11f117743c086f16de67701eb35bfad331826960398bb1e64ea4d35f"
 metafile = true
 
 [[files]]
