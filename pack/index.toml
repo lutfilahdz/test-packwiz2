@@ -51,6 +51,11 @@ hash = "88d4b6472c19d1a2afe1b287c052d17559ac96603b8bbbcf82ad7a9068d953e6"
 metafile = true
 
 [[files]]
+file = "mods/chefs-delight.pw.toml"
+hash = "5fed9e1a740d84cc711a97b4039b76da4a4a0f8fa39864d4e895de62326301d2"
+metafile = true
+
+[[files]]
 file = "mods/cherry-villages.pw.toml"
 hash = "afdbb56b276f5430050096bdf2e51ca731cb61cd814b3443e074cc8d5caba01b"
 metafile = true
@@ -126,6 +131,11 @@ hash = "630b6d667264f8f5a580af52952ca9ef031d4f6db81a41e22d78738dcc53b154"
 metafile = true
 
 [[files]]
+file = "mods/ctov-chefs-delight-compat.pw.toml"
+hash = "3e41df25fbf26489935cba33f8522f0358765425da4159e895218f12b6976d2b"
+metafile = true
+
+[[files]]
 file = "mods/ctov-create-structures.pw.toml"
 hash = "d0114dcd9e7b204c1d2438b902faa1561763d8bd5b3130080895a16e106f06af"
 metafile = true
@@ -176,6 +186,16 @@ hash = "0bcc0df994ebbe98efc2f87c653cd0ae0a81bb0ca47b5adacba0974c5c6406c5"
 metafile = true
 
 [[files]]
+file = "mods/enders-delight.pw.toml"
+hash = "0528a78f6d137b10c2ac215ddb5b4f7f7e82538662cafa1949ef385b84fd3cbe"
+metafile = true
+
+[[files]]
+file = "mods/expanded-delight.pw.toml"
+hash = "0f6f3fd47bcc2ceb48037121a2691d2af6478a5a2f0b8c78c7287f41442059da"
+metafile = true
+
+[[files]]
 file = "mods/explorify.pw.toml"
 hash = "a0b3f914a386d4236744bc749156bb7eca1014179a50e340af1ea4741198782f"
 metafile = true
@@ -191,6 +211,11 @@ hash = "967a780be97bec40b8bca4945a053ee4fbd05d58e218c4fb803959ac0d0c7f08"
 metafile = true
 
 [[files]]
+file = "mods/fabric-seasons-delight-compat.pw.toml"
+hash = "ca6466a711561f431038af2698dfaa4e683703f74908655a5742adbc0f5433ef"
+metafile = true
+
+[[files]]
 file = "mods/fabric-seasons.pw.toml"
 hash = "ce276e188fa22c4b8e4a99a0558844284fff7d49af2c5e6683290eaa598a7c61"
 metafile = true
@@ -198,6 +223,11 @@ metafile = true
 [[files]]
 file = "mods/farmers-delight-refabricated.pw.toml"
 hash = "63816a982df44357b787c041f281e3ee3bb86768493e6e043aa38b99d3c2ea57"
+metafile = true
+
+[[files]]
+file = "mods/farmers-structures.pw.toml"
+hash = "837a4cd76074b9bcec0eca2e4f7dda9e76f058e154e9a203081be573be46da7c"
 metafile = true
 
 [[files]]
@@ -326,8 +356,18 @@ hash = "2149e8ba3fc2c56905e6bbc06efd4ece5999d8babea605386ec5bd1af26aef90"
 metafile = true
 
 [[files]]
+file = "mods/nethers-delight-refabricated.pw.toml"
+hash = "80b0b7333c6c4235d840800afc8583a1e03f5fe493dd8085bf46dbf18e48eab3"
+metafile = true
+
+[[files]]
 file = "mods/nyfs-spiders.pw.toml"
 hash = "0e4b66acb56a69961e0324eb902df9f490b8681b3d3f99ac3f96bb1b55ad1ba9"
+metafile = true
+
+[[files]]
+file = "mods/oceans-delight.pw.toml"
+hash = "0cd69add62e07381eacd3abf2a9188b1a0e2648ab92ebefe82d93ffd229ddbca"
 metafile = true
 
 [[files]]
@@ -544,6 +584,16 @@ metafile = true
 [[files]]
 file = "world/datapacks/better-villages-bountiful.pw.toml"
 hash = "5c56dbd352a75a406adce0316f8c09eb82128ed285ea3c89fa05b9ba56ab0ef2"
+metafile = true
+
+[[files]]
+file = "world/datapacks/repurposed-structures-chefs-delight-compat.pw.toml"
+hash = "988501e1caee238435dd33482ae0c484c3f54ff37cda3ba47f7e5a6280895d0e"
+metafile = true
+
+[[files]]
+file = "world/datapacks/repurposed-structures-farmers-delight-compat.pw.toml"
+hash = "2271ae5c97d5579243411cc3269acd76cf78e807ff6f9f00e20440bcae8042db"
 metafile = true
 
 [[files]]
