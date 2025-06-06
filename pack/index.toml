@@ -53,5 +53,5 @@ metafile = true
 
 [[files]]
 file = "unsup-server.pw.toml"
-hash = "23bbcd6a68134aa36b0c5d3b23cdaa2f769d0cdf6298102b271dc6fde64ef692"
+hash = "d41f8800770f1ed3921c0356fc4d54e4eaa3b22f5c66fc3ebe9ce8f3ee80882d"
 metafile = true
