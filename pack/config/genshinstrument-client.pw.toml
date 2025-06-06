@@ -1,4 +1,4 @@
-name = "genshinstrument-client.toml"
+name = "config/genshinstrument-client.toml (client)"
 filename = "genshinstrument-client.toml"
 side = "client"
 
