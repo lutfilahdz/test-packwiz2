@@ -1,0 +1,8 @@
+name = "servers.dat (client)"
+filename = "servers.dat"
+side = "client"
+
+[download]
+url = "https://lutfilahdz.github.io/test-packwiz2/main/client-files/servers.dat"
+hash-format = "sha512"
+hash = "503d65b337ff8c9a39f2bed713fa9bb1fc31dd071b262aa2bc9deacbae8a517fb1c668bff730a6ca23d285cdb9fb2a0aa267d41ec12f25b25aa94d9be45247ba"

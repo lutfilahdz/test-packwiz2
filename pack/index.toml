@@ -267,6 +267,11 @@ file = "server-files/unsup.ini"
 hash = "8f423a5ece98bb95c1715be043a0408ab1b876cd26da3f9e36d986d401eadab4"
 
 [[files]]
+file = "servers-dat.pw.toml"
+hash = "48393926cdf24451e09ccdfbe4f82500ce02e6203d052d21b78d6beebde2b736"
+metafile = true
+
+[[files]]
 file = "unsup-client.pw.toml"
 hash = "83f513925a267db1459aefafd9164e9a75b917e089d05d9de2952a677474bcc2"
 metafile = true
