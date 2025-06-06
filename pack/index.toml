@@ -36,6 +36,11 @@ hash = "e12dce3e543168379a2856c66064ee2001e6420a9dfc6163f37b78e518947456"
 metafile = true
 
 [[files]]
+file = "mods/badoptimizations.pw.toml"
+hash = "adf5896d6329adf0234a6ff63e6b7244c9fb3b304c1f6f4f7bdb44b72d38bb36"
+metafile = true
+
+[[files]]
 file = "mods/better-archeology.pw.toml"
 hash = "d7dcbb9489b17fbe221d3a59ab2503293b219cee29d07a08aefbe32c5f3bf160"
 metafile = true
@@ -53,6 +58,11 @@ metafile = true
 [[files]]
 file = "mods/bountiful.pw.toml"
 hash = "88d4b6472c19d1a2afe1b287c052d17559ac96603b8bbbcf82ad7a9068d953e6"
+metafile = true
+
+[[files]]
+file = "mods/c2me-fabric.pw.toml"
+hash = "64a244469b7ce7be7e6ceabedd69d17e573a0b92d6e29c661fc6c490afa965d8"
 metafile = true
 
 [[files]]
@@ -201,6 +211,16 @@ hash = "0bcc0df994ebbe98efc2f87c653cd0ae0a81bb0ca47b5adacba0974c5c6406c5"
 metafile = true
 
 [[files]]
+file = "mods/ebe.pw.toml"
+hash = "c9102ad224c1496927d326707ee2cd2a2cfd6f278f05e23a19aa45395306daf6"
+metafile = true
+
+[[files]]
+file = "mods/entityculling.pw.toml"
+hash = "e286c31c1b559e037730992bdc995383f6e783baa7b8c6c625e52c48a509d8b0"
+metafile = true
+
+[[files]]
 file = "mods/evenmoreinstruments.pw.toml"
 hash = "1c776568dbab390b33dbbb26311777428f2c3461af2a5d32d6c43c8f01440998"
 metafile = true
@@ -238,6 +258,11 @@ metafile = true
 [[files]]
 file = "mods/farmers-delight-refabricated.pw.toml"
 hash = "63816a982df44357b787c041f281e3ee3bb86768493e6e043aa38b99d3c2ea57"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "86cbfa8adbbb8be527f95aca49b427f892aa780773df141dfd7f4ffd02740bbd"
 metafile = true
 
 [[files]]
@@ -308,6 +333,11 @@ metafile = true
 [[files]]
 file = "mods/illager-invasion.pw.toml"
 hash = "59e693fdad9c69fab13a5770e20e0bcbdf9831053361c04c786932c75a67f312"
+metafile = true
+
+[[files]]
+file = "mods/immediatelyfast.pw.toml"
+hash = "68985a3f3d2a6f829783c1bdbd27f195556992fc2c0a9738656acccf38d8c97a"
 metafile = true
 
 [[files]]
@@ -406,6 +436,11 @@ hash = "be4bb351c89fb18c5166578ef42006e32138bdb1e356ba7db0723ad49c4272c4"
 metafile = true
 
 [[files]]
+file = "mods/lithium.pw.toml"
+hash = "a08a445002542d96a8481654c3f4b5e2d3c064f77b477aeaa3a1d1c3cd396ca8"
+metafile = true
+
+[[files]]
 file = "mods/lithostitched.pw.toml"
 hash = "8ad6382001078c012fd1131e2cf19016bb25a45e4b2049f85bd301f3bd04df7b"
 metafile = true
@@ -436,6 +471,11 @@ hash = "78ae1714c3eb76e7696a37b25f375b65136b758c737bf4af0d6d4bc5e44e282f"
 metafile = true
 
 [[files]]
+file = "mods/modernfix.pw.toml"
+hash = "f2d4fb902274312c42ecca4fb8dc3781d4d249ab978e9e57c89eff03c577c7c4"
+metafile = true
+
+[[files]]
 file = "mods/moogs-voyager-structures.pw.toml"
 hash = "993b15f46c5f6ae47fb6e3a3d18020a17a10d5963a2867de86475992aec2b5c5"
 metafile = true
@@ -451,8 +491,18 @@ hash = "1ab3b265bab4a5e521a49224d876727232e66d69afe632ff2bb5a2be462ca2ba"
 metafile = true
 
 [[files]]
+file = "mods/moreculling.pw.toml"
+hash = "dbb344ad3e49c36d167fa05b6c5f674794306b1727220e8720d767264aee497f"
+metafile = true
+
+[[files]]
 file = "mods/naturalist.pw.toml"
 hash = "2149e8ba3fc2c56905e6bbc06efd4ece5999d8babea605386ec5bd1af26aef90"
+metafile = true
+
+[[files]]
+file = "mods/noisium.pw.toml"
+hash = "f4b9d7acc345b8df6dd13e19b36658cbca476abdee703ee6f38c66d33e8fa763"
 metafile = true
 
 [[files]]
@@ -561,6 +611,11 @@ hash = "2f4f8e457856b25ca6c51bcd01f7567e1c9763dbe2f7146397baee81244bf713"
 metafile = true
 
 [[files]]
+file = "mods/threadtweak.pw.toml"
+hash = "53b00436579bd2ea920ef8ae8b1464cb4744dbfd21055d8a3f4768019b78e5bc"
+metafile = true
+
+[[files]]
 file = "mods/tidal-towns.pw.toml"
 hash = "9afc7aa9f96e76f806891d8ee5d6be77d06a370328323462f689541d0e9c8b02"
 metafile = true
@@ -608,6 +663,11 @@ metafile = true
 [[files]]
 file = "mods/visual-workbench.pw.toml"
 hash = "c28f21e5e16aa98001e982453e1b2b8f99302497c645bca4a02a708cfc16577d"
+metafile = true
+
+[[files]]
+file = "mods/vmp-fabric.pw.toml"
+hash = "74906aa6f2f33b0391252d50b1d446d2ad2df4d6ca1026b941e90cc579a0692b"
 metafile = true
 
 [[files]]
