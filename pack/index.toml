@@ -76,6 +76,16 @@ hash = "630b6d667264f8f5a580af52952ca9ef031d4f6db81a41e22d78738dcc53b154"
 metafile = true
 
 [[files]]
+file = "mods/ctov-friends-and-foes-compat.pw.toml"
+hash = "afcd4470f08c342d9c09af255d113736906d2d2c739f5277951eb7ebde9446b9"
+metafile = true
+
+[[files]]
+file = "mods/ctov-villagers-plus-compat.pw.toml"
+hash = "17d4b25e5a1ff7b00589a59f7df4470deb471edb44c5f45b6c8955e6b0c2b58f"
+metafile = true
+
+[[files]]
 file = "mods/diagonal-fences.pw.toml"
 hash = "f7a00fedee0f4475b26485b4d533ecc4df9c1224248e6ed44f3160751639e220"
 metafile = true
@@ -148,6 +158,11 @@ metafile = true
 [[files]]
 file = "mods/formations.pw.toml"
 hash = "94ddda7ccf408a1cf1380924efca253e6ebac5353df83ef9f580b29d8e85d9cb"
+metafile = true
+
+[[files]]
+file = "mods/friends-and-foes.pw.toml"
+hash = "2fcd17a965738c1649d434a0d5f8077321b4bb90a8c9d9d868d220d8bbd5abb3"
 metafile = true
 
 [[files]]
@@ -326,6 +341,11 @@ hash = "2b6a0948247168263c878e34a41f53cb6890c151dc5f75a0c9c93a4c76612186"
 metafile = true
 
 [[files]]
+file = "mods/villagersplus.pw.toml"
+hash = "fa14a49b4af3b025d04f14ade19857ea986823753468298a7af60495aef20e88"
+metafile = true
+
+[[files]]
 file = "mods/villagertradefix.pw.toml"
 hash = "ab959678cf2202308a61f2123236baece525b631dbb58469c95ad39f9ee2f0ef"
 metafile = true
@@ -449,4 +469,9 @@ metafile = true
 [[files]]
 file = "world/datapacks/better-villages-bountiful.pw.toml"
 hash = "5c56dbd352a75a406adce0316f8c09eb82128ed285ea3c89fa05b9ba56ab0ef2"
+metafile = true
+
+[[files]]
+file = "world/datapacks/repurposed-structures-friends-and-foes-compat.pw.toml"
+hash = "927e635c981510b06c640f1f18047e9b19324cc1b4137ff4d610844be4b600b3"
 metafile = true
