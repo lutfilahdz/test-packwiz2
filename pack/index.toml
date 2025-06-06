@@ -268,7 +268,7 @@ hash = "8f423a5ece98bb95c1715be043a0408ab1b876cd26da3f9e36d986d401eadab4"
 
 [[files]]
 file = "servers-dat.pw.toml"
-hash = "48393926cdf24451e09ccdfbe4f82500ce02e6203d052d21b78d6beebde2b736"
+hash = "56cfd9c8ebff2773793b95df4d7f4f66b882aa9c6dc524cfbd88eb767b0fd594"
 metafile = true
 
 [[files]]
