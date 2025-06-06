@@ -256,6 +256,11 @@ hash = "17d4b25e5a1ff7b00589a59f7df4470deb471edb44c5f45b6c8955e6b0c2b58f"
 metafile = true
 
 [[files]]
+file = "mods/danger-close.pw.toml"
+hash = "dc11bda9d648d2d7269da84cbaf05209a46ea424cade426b7caae97eea00c54a"
+metafile = true
+
+[[files]]
 file = "mods/debugify.pw.toml"
 hash = "8f611c3cf31eb5f5b3395b99414d794029192d556fd8dfc4b49a097a67134ccf"
 metafile = true
@@ -681,6 +686,11 @@ hash = "f2d4fb902274312c42ecca4fb8dc3781d4d249ab978e9e57c89eff03c577c7c4"
 metafile = true
 
 [[files]]
+file = "mods/monolib.pw.toml"
+hash = "9e0de5ca33464391d73910e6cfbe90b06f21a691061003d7ad93eb34041046ad"
+metafile = true
+
+[[files]]
 file = "mods/moogs-voyager-structures.pw.toml"
 hash = "993b15f46c5f6ae47fb6e3a3d18020a17a10d5963a2867de86475992aec2b5c5"
 metafile = true
@@ -763,6 +773,11 @@ metafile = true
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "e7aaef7215f2419177f1b1d3240d2d61d17ca2b2e03127d92941874ad5594d6f"
+metafile = true
+
+[[files]]
+file = "mods/realistic-fire-spread.pw.toml"
+hash = "26e519273310e8f57b031f1618eb6840fa693db533159ddc4666cff2836a8f04"
 metafile = true
 
 [[files]]
