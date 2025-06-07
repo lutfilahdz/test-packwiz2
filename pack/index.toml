@@ -31,22 +31,6 @@ hash = "b0f4994a58bbec5490b562b3c1320ae049cf98975c68505ae93ce93ff5fabe30"
 metafile = true
 
 [[files]]
-file = "server-files/config/universal-graves/models/default.json"
-hash = "1dd6bff90363e4fb23ba7ad1f198dcec00cf028963f9ce23a0d3848970d54c62"
-
-[[files]]
-file = "server-files/config/xaerominimap-common.txt"
-hash = "1417bc75bdedbbd902913da0ed6a5864bd90a425e7a57a23e76af1765f428a11"
-
-[[files]]
-file = "server-files/config/xaeroworldmap-common.txt"
-hash = "0829f0ecbae2f7ec816841eb0c8b2a6196643b55a41bf177b3fb305ce7c9433b"
-
-[[files]]
-file = "server-files/unsup.ini"
-hash = "8f423a5ece98bb95c1715be043a0408ab1b876cd26da3f9e36d986d401eadab4"
-
-[[files]]
 file = "servers-dat.pw.toml"
 hash = "56cfd9c8ebff2773793b95df4d7f4f66b882aa9c6dc524cfbd88eb767b0fd594"
 metafile = true
