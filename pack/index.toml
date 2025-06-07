@@ -6,6 +6,11 @@ hash = "7f33e621c71d79d93bd5bdf67a04bea05106f464a6723d266651155c1e12004a"
 metafile = true
 
 [[files]]
+file = "config/kiwi-client.pw.toml"
+hash = "5ae66a68fff4d242ded8e6c7ed22e011b38c9fae0944bb306c1d073c522a74d9"
+metafile = true
+
+[[files]]
 file = "config/universal-graves/models/default.pw.toml"
 hash = "25e09c91f739b1dc4f03200a70b4c14d6d42d8fbb18658cc6a518d61dd852a1b"
 metafile = true
