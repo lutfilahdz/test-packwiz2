@@ -5,4 +5,4 @@ side = "client"
 [download]
 url = "https://lutfilahdz.github.io/test-packwiz2/main/client-files/options.txt"
 hash-format = "sha512"
-hash = "ddcfaa9667f6fc09c7a561d7b6205a53bed7684d6ef46e5d687fbf5884084b8da06fba1a004e3bdbb8243d21a7b40fe3a94273389439eb9ef3853ae11dd63c2e"
+hash = "ba3f92b1194c401293d548653bbf19f7764df961b58250619f1a34808b5a2d0a043a9c526556ca36fafc75118ba6e249a2684e1cfa6d32db459b51a7d2d4f2c1"
