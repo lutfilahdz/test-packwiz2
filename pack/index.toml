@@ -397,7 +397,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-seasons-delight-compat.pw.toml"
-hash = "ca6466a711561f431038af2698dfaa4e683703f74908655a5742adbc0f5433ef"
+hash = "49d9963a64205c1cadf5a7eed5779158059cb1319f67e43a34094c6af3170413"
 metafile = true
 
 [[files]]
@@ -553,6 +553,11 @@ metafile = true
 [[files]]
 file = "mods/item-highlighter.pw.toml"
 hash = "80264d11a93ffb63f1592be06f8dcdf276bc5a6d2b666dfa9a5d2d10dfb29282"
+metafile = true
+
+[[files]]
+file = "mods/item-placer.pw.toml"
+hash = "457bc3ffe30b30e57348288acc19319cd1ef15f3b3e07c94faed7e3b58c34629"
 metafile = true
 
 [[files]]
