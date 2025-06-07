@@ -62,6 +62,8 @@ flavors = "package_complete"
 flavors = "package_complete"
 [metafile.presence-footsteps]
 flavors = "package_complete"
+[metafile.coolrain]
+flavors = "package_complete"
 [metafile.dripsounds]
 flavors = "package_complete"
 [metafile.jei]
@@ -76,6 +78,8 @@ flavors = "package_complete"
 flavors = "package_complete"
 [metafile.mouse-tweaks]
 flavors = "package_complete"
+[metafile.controlling]
+flavors = "package_complete"
 [metafile.better-third-person]
 flavors = "package_complete"
 [metafile.cameraoverhaul]
@@ -86,21 +90,27 @@ flavors = "package_complete"
 flavors = "package_complete"
 [metafile.lambdynamiclights]
 flavors = "package_complete"
-[metafile.zoomify]
-flavors = "package_complete"
 [metafile.jade]
 flavors = "package_complete"
 [metafile.jade-addons-fabric]
 flavors = "package_complete"
+[metafile.your-reputation]
+flavors = "package_complete"
 [metafile.appleskin]
+flavors = "package_complete"
+[metafile.tooltiprareness]
+flavors = "package_complete"
+[metafile.enchantment-descriptions]
+flavors = "package_complete"
+[metafile.effect-descriptions]
+flavors = "package_complete"
+[metafile.foodeffecttooltips]
 flavors = "package_complete"
 [metafile.shulkerboxtooltip]
 flavors = "package_complete"
-[metafile.better-mount-hud]
+[metafile.durability-tooltip]
 flavors = "package_complete"
-[metafile.enhanced-attack-indicator]
-flavors = "package_complete"
-[metafile.enchantment-descriptions]
+[metafile.held-item-info]
 flavors = "package_complete"
 [metafile.pick-up-notifier]
 flavors = "package_complete"
@@ -108,25 +118,21 @@ flavors = "package_complete"
 flavors = "package_complete"
 [metafile.item-borders]
 flavors = "package_complete"
+[metafile.status-effect-bars]
+flavors = "package_complete"
 [metafile.stendhal]
 flavors = "package_complete"
-[metafile.boat-item-view]
+[metafile.better-mount-hud]
 flavors = "package_complete"
 [metafile.better-ping-display-fabric]
 flavors = "package_complete"
-[metafile.durability-tooltip]
-flavors = "package_complete"
-[metafile.held-item-info]
-flavors = "package_complete"
-[metafile.better-f1-reborn]
-flavors = "package_complete"
-[metafile.tiny-item-animations]
-flavors = "package_complete"
-[metafile.smooth-scroll]
-flavors = "package_complete"
-[metafile.smooth-swapping]
+[metafile.boat-item-view]
 flavors = "package_complete"
 [metafile.craftpresence]
+flavors = "package_complete"
+[metafile.swingthrough]
+flavors = "package_complete"
+[metafile.accurate-block-placement-reborn]
 flavors = "package_complete"
 [metafile.eating-animation]
 flavors = "package_complete"
